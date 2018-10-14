@@ -1,5 +1,5 @@
 [
-  { "EDAD": "De 10 a 19 Años",
+  { "edad": "De 10 a 19 Años",
     "values": [
         {"date":"2009", "tasa":3.36},
         {"date":"2010", "tasa":4.96},
@@ -10,7 +10,7 @@
         {"date":"2015", "tasa":10.35}
     ]
   },
-  { "EDAD": "De 20 a 29 Años",
+  { "edad": "De 20 a 29 Años",
     "values": [
         {"date":"2009", "tasa":3.79},
         {"date":"2010", "tasa":4.49},
@@ -21,7 +21,7 @@
         {"date":"2015", "tasa":7.01}
     ]
   },
-  { "EDAD": "De 30 a 39 Años",
+  { "edad": "De 30 a 39 Años",
     "values": [
         {"date":"2009", "tasa":1.94},
         {"date":"2010", "tasa":2.44},
@@ -32,7 +32,7 @@
         {"date":"2015", "tasa":3.71}
     ]
   },
-  { "EDAD": "De 40 a 49 Años",
+  { "edad": "De 40 a 49 Años",
     "values": [
         {"date":"2009", "tasa":1.07},
         {"date":"2010", "tasa":1.02},
@@ -43,7 +43,7 @@
         {"date":"2015", "tasa":2.46}
     ]
   },
-  { "EDAD": "De 50 a 59 Años",
+  { "edad": "De 50 a 59 Años",
     "values": [
         {"date":"2009", "tasa":0.65},
         {"date":"2010", "tasa":0.48},
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "EDAD": "De 60 a 69 Años",
+    "edad": "De 60 a 69 Años",
     "values": [
         {"date":"2009", "tasa":0.57},
         {"date":"2010", "tasa":0.35},
@@ -66,7 +66,7 @@
         {"date":"2015", "tasa":0.79}
     ]
   },
-  { "EDAD": "De 70 Años o Más",
+  { "edad": "De 70 Años o Más",
     "values": [
         {"date":"2009", "tasa":0.7},
         {"date":"2010", "tasa":0.46},
